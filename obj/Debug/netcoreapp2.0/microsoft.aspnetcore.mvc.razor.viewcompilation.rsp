@@ -1,0 +1,12 @@
+/var/www/html/core.khsiung
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=core.khsiung
+--content-root=/var/www/html/core.khsiung
+--file=/var/www/html/core.khsiung/Views/Home/About.cshtml
+--file=/var/www/html/core.khsiung/Views/Home/Contact.cshtml
+--file=/var/www/html/core.khsiung/Views/Home/Index.cshtml
+--file=/var/www/html/core.khsiung/Views/Shared/Error.cshtml
+--file=/var/www/html/core.khsiung/Views/Shared/_Layout.cshtml
+--file=/var/www/html/core.khsiung/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/var/www/html/core.khsiung/Views/_ViewImports.cshtml
+--file=/var/www/html/core.khsiung/Views/_ViewStart.cshtml
